@@ -1,7 +1,7 @@
 # Sumiya | https://sumiya.page
 
 ## Social
-Twitter: https://twitter.com/p_sumiya  
+Mastodon: <a rel="me" href="https://hachyderm.io/@sumiya">hachyderm.io/@sumiya</a>  
 LinkedIn: www.linkedin.com/in/sumiya  
 
 ## Professional
