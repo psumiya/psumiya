@@ -10,7 +10,7 @@ LinkedIn: www.linkedin.com/in/sumiya
 * 2008 - 2020 @ various consulting companies
 
 ### About
-I prefer to work with AWS and Java, however I am a generalist having worked in various projects that required me to learn and execute using different tools, methodologies, languages, and stacks, depending on the client. 
+I prefer to work with AWS and Java, however I am a generalist having worked in various projects that required me to learn and execute using different tools, methodologies, languages, and stacks. 
 
 ## Excited About
 
