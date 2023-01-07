@@ -45,21 +45,21 @@ My experience has mostly been shipping software features at large enterprises.
 
 ## Technology Evolution
 
-| Year | Technology                                    |
-|:-----|:----------------------------------------------|
-| 2022 | Step Functions, Event Bridge                  |
-| 2021 | Netty-based microservices, Gradle             |
-| 2020 | Akka Framework, Logback                       |
-| 2019 | InRule, Scala, SBT, SignalFx                  |
-| 2018 | Splunk, Salesforce                            |
-| 2017 | React, Angular, Material Design               |
-| 2016 | AWS                                           |
-| 2015 | Oracle Policy Automation, Oracle Service Bus  |
-| 2014 | Adobe Experience Manager, Git, Gerrit         |
-| 2013 | Hibernate, Oracle DB, SOAP, SVN, Maven, Log4J |
-| 2012 | Spring Framework, REST, PostgreSQL            |
-| 2011 | JSP, Javascript, Struts, IBM DB2              |
-| 2010 | Java, EhCache, IBM ClearCase                  |
-| 2009 | COBOL                                         |
-| 2008 | UNIX                                          |
+| Year | Technology                                             |
+|:-----|:-------------------------------------------------------|
+| 2022 | Step Functions, Event Bridge, Adobe Experience Manager |
+| 2021 | Netty-based microservices, Gradle                      |
+| 2020 | Akka Framework, Logback                                |
+| 2019 | InRule, Scala, SBT, SignalFx                           |
+| 2018 | Splunk, Salesforce                                     |
+| 2017 | React, Angular, Material Design                        |
+| 2016 | AWS                                                    |
+| 2015 | Oracle Policy Automation, Oracle Service Bus           |
+| 2014 | Adobe Experience Manager, Git, Gerrit                  |
+| 2013 | Hibernate, Oracle DB, SOAP, SVN, Maven, Log4J          |
+| 2012 | Spring Framework, REST, PostgreSQL                     |
+| 2011 | JSP, Javascript, Struts, IBM DB2                       |
+| 2010 | Java, EhCache, IBM ClearCase                           |
+| 2009 | COBOL                                                  |
+| 2008 | UNIX                                                   |
 
