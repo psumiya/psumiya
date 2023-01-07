@@ -10,7 +10,11 @@ LinkedIn: www.linkedin.com/in/sumiya
 * 2008 - 2020 @ various consulting companies
 
 ### About
-I prefer to work with AWS and Java, however I am a generalist having worked in various projects that required me to learn and execute using different tools, methodologies, languages, and stacks. 
+I am a generalist having worked in various projects that required me to learn and execute using different tools, methodologies, languages, and stacks. 
+
+I prefer to work with Java and AWS.
+
+My experience has mostly been shipping software features at large enterprises.
 
 ## Excited About
 
@@ -28,7 +32,6 @@ I prefer to work with AWS and Java, however I am a generalist having worked in v
 
 
 ## Professional Evolution
-Engineer &#8594; _promoted to_ &#8594; Senior Engineer &#8594; _job change to_ &#8594; Engineering Lead &#8594; _promoted to_ &#8594; Associate Manager &#8594; _job change and reset to_ &#8594; Senior Engineer &#8594; _job change to_ &#8594; Engineering Lead &#8594; _promoted to_ &#8594; Engineering Manager
 
 | Year | Designation         |
 |:-----|:--------------------|
