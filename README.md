@@ -10,7 +10,7 @@ LinkedIn: www.linkedin.com/in/sumiya
 * 2008 - 2020 @ various consulting companies
 
 ### About
-I am a generalist having worked in various projects that required me to learn and execute using different tools, methodologies, languages, and stacks. 
+I am a generalist with experience across a range of projects that required me to learn and execute using different tools, methodologies, languages, and stacks. 
 
 I prefer to work with Java and AWS.
 
