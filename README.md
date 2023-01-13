@@ -1,8 +1,9 @@
-# Sumiya | https://sumiya.page
+# Sumiya
 
-## Social
+## rel=me
 Mastodon: <a rel="me" href="https://hachyderm.io/@sumiya">hachyderm.io/@sumiya</a>  
 LinkedIn: www.linkedin.com/in/sumiya  
+Blog: https://sumiya.page
 
 ## Professional
 
