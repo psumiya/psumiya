@@ -2,22 +2,20 @@
 
 ## rel=me
 Mastodon: <a rel="me" href="https://hachyderm.io/@sumiya">hachyderm.io/@sumiya</a>  
+Blog: https://sumiya.page  
 LinkedIn: www.linkedin.com/in/sumiya  
-Blog: https://sumiya.page
 
-## Professional
+## professional
 
 * Since 2021 @ Nike 
 * 2008 - 2020 @ various consulting companies
 
-### About
+## about
 I am a generalist with experience across a range of projects that required me to learn and execute using different tools, methodologies, languages, and stacks. 
 
-I prefer to work with Java and AWS.
+My experience has mostly been shipping end-user facing software features at large enterprises.
 
-My experience has mostly been shipping software features at large enterprises.
-
-## Excited About
+### things that excite me
 
 * Building and Scaling Software Engineering Teams
 * AWS
@@ -26,13 +24,13 @@ My experience has mostly been shipping software features at large enterprises.
 * Event Driven Systems
 * Wardley Mapping
 
-## Impact
+## impact
 
 * Built features for Nike's communication platform to help send cross-channel (email, push, inbox, sms) communications to consumers worldwide 
 * Built features for a public service product that went live in several states in 2013 to comply with Affordable Care Act
 
 
-## Professional Evolution
+## profession by year
 
 | Year | Designation         |
 |:-----|:--------------------|
@@ -44,7 +42,7 @@ My experience has mostly been shipping software features at large enterprises.
 | 2011 | Senior Engineer     |
 | 2008 | Engineer            |
 
-## Technology Evolution
+## primary technologies by year
 
 | Year | Technology                                             |
 |:-----|:-------------------------------------------------------|
