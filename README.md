@@ -3,7 +3,6 @@
 ## rel=me
 Mastodon: <a rel="me" href="https://hachyderm.io/@sumiya">hachyderm.io/@sumiya</a>  
 Blog: https://sumiya.page  
-LinkedIn: www.linkedin.com/in/sumiya  
 
 ## professional
 
