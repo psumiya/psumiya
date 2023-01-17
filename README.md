@@ -17,7 +17,7 @@ My experience has mostly been shipping end-user facing software features at larg
 ### things that excite me
 
 * Building and Scaling Software Engineering Teams
-* AWS
+* Cloud (been using AWS since 2016)
 * Java
 * Serverless Design and Build
 * Event Driven Systems
