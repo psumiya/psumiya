@@ -1,18 +1,14 @@
 # Sumiya
 
-## rel=me
-Mastodon: <a rel="me" href="https://hachyderm.io/@sumiya">hachyderm.io/@sumiya</a>  
-Blog: https://sumiya.page  
+## about
+I am a generalist with experience across a range of projects using different tools, methodologies, languages, and technology stacks. 
+
+My experience has mostly been shipping end-user facing software features at large enterprises.
 
 ## professional
 
-* Since 2021 @ Nike 
+* Since 2021 @ Nike
 * 2008 - 2020 @ various consulting companies
-
-## about
-I am a generalist with experience across a range of projects that required me to learn and execute using different tools, methodologies, languages, and stacks. 
-
-My experience has mostly been shipping end-user facing software features at large enterprises.
 
 ### things that excite me
 
