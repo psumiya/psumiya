@@ -13,7 +13,6 @@ My experience has mostly been shipping end-user facing software features at larg
 ### things that excite me
 
 * Building and Scaling Software Engineering Teams
-* Cloud (been using AWS since 2016)
 * Java
 * Serverless Design and Build
 * Event Driven Systems
@@ -30,7 +29,7 @@ Here are some things I have spent my personal time on.
 
 * https://sumiya.page - Blog to share things I have learnt and experienced.
   * Originally started in 2016 as https://algoclinic.com to share what I was learning on Data Structure and Algorithms. With an explosion of online resources around these topics though, I thought it would be better to share things that are unique to me, but may be generally useful for someone else too.
-  * This is when I registered https://sumiya.page. Today, content for both domains are served from the same S3 bucket. General setup is Browser -> Google DNS -> Amazon Route 53 -> CloudFront -> S3
+  * Today, content for both domains are served from the same S3 bucket.
   * GitHub: https://github.com/psumiya/blog
 * https://amazonoraws.com - A comprehensive list of all Amazon Web Service products that helps identify whether a service name begins with Amazon, or AWS.
   * GitHub: https://github.com/psumiya/amazon-or-aws
