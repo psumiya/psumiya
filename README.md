@@ -1,9 +1,7 @@
 # Sumiya
 
 ## about
-I am a generalist with experience across a range of projects using different tools, methodologies, languages, and technology stacks. 
-
-My experience has mostly been shipping end-user facing software features at large enterprises.
+I am a generalist with experience across a range of projects using different tools, methodologies, languages, and technology stacks,  shipping end-user facing software features at large enterprises.
 
 ## professional
 
