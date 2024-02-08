@@ -52,7 +52,7 @@ Here are some things I have spent my personal time on.
 
 | Year | Technology                                    |
 |:-----|:----------------------------------------------|
-| 2023 | AWS, Java, Scala                              |
+| 2023 | AWS, Java, Scala, Typescript, React           |
 | 2022 | AWS, Java, Adobe Experience Manager           |
 | 2021 | AWS, Java, Netty-based microservices, Gradle  |
 | 2020 | AWS, Java, Akka Framework, Logback            |
