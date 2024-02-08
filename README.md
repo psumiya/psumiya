@@ -39,6 +39,7 @@ Here are some things I have spent my personal time on.
 
 | Year | Designation         |
 |:-----|:--------------------|
+| 2023 | Engineering Manager |
 | 2022 | Engineering Manager |
 | 2021 | Engineering Lead    |
 | 2018 | Senior Engineer     |
