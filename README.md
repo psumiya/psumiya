@@ -10,11 +10,8 @@ I am a generalist with experience across a range of projects using different too
 
 ### things that excite me
 
-* Building and Scaling Software Engineering Teams
-* Java
-* Serverless Design and Build
-* Event Driven Systems
-* Wardley Mapping
+* Building End User Software
+* Mentoring
 
 ## impact
 
@@ -39,7 +36,6 @@ Here are some things I have spent my personal time on.
 
 | Year | Designation         |
 |:-----|:--------------------|
-| 2023 | Engineering Manager |
 | 2022 | Engineering Manager |
 | 2021 | Engineering Lead    |
 | 2018 | Senior Engineer     |
