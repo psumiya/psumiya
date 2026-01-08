@@ -18,9 +18,6 @@ I am a generalist with experience across a range of projects using different too
 Here are some things I have spent my personal time on.
 
 * https://sumiya.page - Blog to share things I have learnt and experienced.
-  * Originally started in 2016 as https://algoclinic.com to share what I was learning on Data Structure and Algorithms. With an explosion of online resources around these topics though, I thought it would be better to share things that are unique to me, but may be generally useful for someone else too.
-  * Today, content for both domains are served from the same S3 bucket.
-  * GitHub: https://github.com/psumiya/blog
 * https://github.com/psumiya/jcli - A command-line tool that lets you invoke utility Java methods as commands from your terminal, without needing a JDK or a JRE.
 * https://github.com/psumiya/option-insights - A static website for retail option traders that shows interesting charts and graphs when given a CSV of option trades.
 * https://amazonoraws.com - A comprehensive list of all Amazon Web Service products that helps identify whether a service name begins with Amazon, or AWS.
