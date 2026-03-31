@@ -1,28 +1,46 @@
 # Sumiya
 
-## about
-I am a generalist with experience across a range of projects using different tools, methodologies, languages, and technology stacks,  shipping end-user facing software features at large enterprises.
+Engineering leader who builds. 18 years in enterprise software with last 6 years in marketing technology - most recently leading a backend engineering team behind Nike's global communications platform (email, push, SMS, inbox - hundreds of millions of messages, consumer scale).
 
-### things that excite me
+Currently building with AI. Interested in how LLMs and agents can accelerate software delivery in enterprise environments. Ask me about it.
 
-* Building End User Software
-* Mentoring
+---
 
-## impact
+## What I'm building now
 
-* Built features for Nike's communication platform to help send cross-channel (email, push, inbox, sms) communications to consumers worldwide 
-* Built features for a public service product that went live in several states in 2013 to comply with Affordable Care Act
+**CampaignLens** *(in progress)*  
 
-## personal projects
+An AI agent that audits email campaigns before they send - scoring content quality, deliverability risk, compliance, and accessibility. Built with Next.js + Claude API. Domain expertise meets LLM application design.
 
-Here are some things I have spent my personal time on.
+→ *Link coming soon*
 
-* https://sumiya.page - Blog to share things I have learnt and experienced.
-* https://github.com/psumiya/jcli - A command-line tool that lets you invoke utility Java methods as commands from your terminal, without needing a JDK or a JRE.
-* https://github.com/psumiya/option-insights - A static website for retail option traders that shows interesting charts and graphs when given a CSV of option trades.
-* https://amazonoraws.com - A comprehensive list of all Amazon Web Service products that helps identify whether a service name begins with Amazon, or AWS.
-  * GitHub: https://github.com/psumiya/amazon-or-aws
-* https://sumiya.page/jpath.html - A Web UI to invoke methods on Jayway JsonPath Implementation
-  * GitHub: https://github.com/psumiya/json-path-web
-* https://github.com/psumiya/til - Short-form write-up of things I learnt as I work on various projects. 
+---
 
+## Things I've shipped
+
+**[option-insights](https://github.com/psumiya/option-insights)**  
+A charting tool for retail options traders — built at a public hackathon. Takes a CSV of option trades and renders charts and graphs for analysis. Static site, no backend, runs entirely in the browser.
+
+**[jcli](https://github.com/psumiya/jcli)**  
+A CLI tool that lets you invoke utility Java methods from your terminal without needing a JDK or JRE. Scratched my own itch — turns out others 
+had the same itch.
+
+**[amazon-or-aws](https://amazonoraws.com)**  
+An AWS news aggregator and comprehensive product reference — so you can finally stop second-guessing whether it's "Amazon S3" or "AWS S3".
+
+**[jpath](https://sumiya.page/jpath.html)**  
+A web UI for the Jayway JsonPath implementation. Built when the official site went down after the Heroku acquisition - and kept alive since, because validating a path expression shouldn't require writing test code. Was picked up by the JsonPath community as a stop-gap back in the day. Might still be in use somewhere.
+
+---
+
+## TIL
+
+I keep a [running log](https://github.com/psumiya/til) of things I learn as I work - short-form, no fluff. Mostly backend, AWS, and whatever I'm 
+tinkering with.
+
+---
+
+## Impact (the day job)
+
+- I currently lead backend engineering at **Nike Communications Platform** - the infrastructure behind every cross-channel consumer communication Nike sends globally (email, push, SMS, inbox)
+- In the past built features for a public-service ACA compliant product that went live in multiple US states in 2013
