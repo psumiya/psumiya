@@ -18,7 +18,10 @@ An AI agent that audits email campaigns before they send - scoring content quali
 
 ## Things I've shipped
 
-**[option-insights](https://github.com/psumiya/option-insights)**  
+**[OctaneLog](https://github.com/psumiya/octanelog)** *(public hackathon project)*  
+An iOS app that narrates your drives using on-device Vision AI and Gemini. Continuously records, analyzes scenery in real-time, and generates narrative summaries of where you've been. Two-model architecture: Gemini Flash for high-frequency video analysis, Gemini Pro for season-long story memory. Privacy-first: raw GPS and generated narratives stay on device.
+
+**[option-insights](https://github.com/psumiya/option-insights)** *(public hackathon project)*  
 A charting tool for retail options traders — built at a public hackathon. Takes a CSV of option trades and renders charts and graphs for analysis. Static site, no backend, runs entirely in the browser.
 
 **[jcli](https://github.com/psumiya/jcli)**  
