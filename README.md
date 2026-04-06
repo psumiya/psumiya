@@ -12,8 +12,6 @@ Currently building with AI. Interested in how LLMs and agents can accelerate sof
 
 An AI agent where you can audit an email campaign across multiple dimensions - scoring content quality, deliverability risk, compliance, and accessibility. Serverless on AWS using a simple flow: User (Browser) -> API Gateway -> Lambda -> Cloudflare then Bedrock -> Claude Sonnet.
 
-→ *Link coming soon*
-
 ---
 
 ## Things I've shipped
