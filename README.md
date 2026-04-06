@@ -8,9 +8,9 @@ Currently building with AI. Interested in how LLMs and agents can accelerate sof
 
 ## What I'm building now
 
-**CampaignLens** *(in progress)*  
+**[CampaignLens](https://sumiya.page/campaign-lens.html)**
 
-An AI agent that audits email campaigns before they send - scoring content quality, deliverability risk, compliance, and accessibility. Built with Next.js + Claude API. Domain expertise meets LLM application design.
+An AI agent where you can audit an email campaign across multiple dimensions - scoring content quality, deliverability risk, compliance, and accessibility. Serverless on AWS using a simple flow: User (Browser) -> API Gateway -> Lambda -> Cloudflare then Bedrock -> Claude Sonnet.
 
 → *Link coming soon*
 
