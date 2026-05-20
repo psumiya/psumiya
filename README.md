@@ -1,6 +1,6 @@
 # Sumiya
 
-Engineering leader who builds. 18 years in enterprise software with last 6 years in marketing technology - most recently leading a backend engineering team behind Nike's global communications platform (email, push, SMS, inbox - hundreds of millions of messages, consumer scale).
+Engineering leader who builds. 18 years in enterprise software.
 
 Currently building with AI. Interested in how LLMs and agents can accelerate software delivery in enterprise environments. Ask me about it.
 
@@ -8,13 +8,17 @@ Currently building with AI. Interested in how LLMs and agents can accelerate sof
 
 ## What I'm building now
 
-**[CampaignLens](https://sumiya.page/campaign-lens.html)**
+**[AI Intelligence Brief](https://sumiya.page/brief/index.html)**
 
-An AI agent where you can audit an email campaign across multiple dimensions - scoring content quality, deliverability risk, compliance, and accessibility. Serverless on AWS using a simple flow: User (Browser) -> API Gateway -> Lambda -> Cloudflare then Bedrock -> Claude Sonnet.
+Keeping up with AI research is a full-time job. Papers drop on arXiv every morning, YouTube channels post deep-dives, newsletters land in your inbox, and podcasts stretch to three hours. I am wroking on a single daily read that cuts across all of it, all automated. I have built a Python pipeline that pulls from RSS feeds, YouTube channels, and arXiv each day, runs everything through Gemini 2.5 Flash, and publishes a structured intelligence digest to a static site on S3 and CloudFront.
 
 ---
 
 ## Things I've shipped
+
+**[CampaignLens](https://sumiya.page/campaign-lens.html)**
+
+An AI agent where you can audit an email campaign across multiple dimensions - scoring content quality, deliverability risk, compliance, and accessibility. Serverless on AWS using a simple flow: User (Browser) -> API Gateway -> Lambda -> Cloudflare then Bedrock -> Claude Sonnet.
 
 **[OctaneLog](https://github.com/psumiya/octanelog)** *(public hackathon project)*  
 An iOS app that narrates your drives using on-device Vision AI and Gemini. Continuously records, analyzes scenery in real-time, and generates narrative summaries of where you've been. Two-model architecture: Gemini Flash for high-frequency video analysis, Gemini Pro for season-long story memory. Privacy-first: raw GPS and generated narratives stay on device.
