@@ -47,5 +47,5 @@ tinkering with.
 
 ## Impact (the day job)
 
-- I currently lead backend engineering at **Nike Communications Platform** - the infrastructure behind every cross-channel consumer communication Nike sends globally (email, push, SMS, inbox)
-- In the past built features for a public-service ACA compliant product that went live in multiple US states in 2013
+- I currently lead backend engineering at **Nike Stores** - the infrastructure connecting Nike's retail stores worldwide to Nike's digital ecosystem.
+- In the past I led a team for **Nike Communications Platform** - the infrastructure behind every cross-channel consumer communication Nike sends globally (email, push, SMS, inbox), and prior to that I built features for a public-service Affordable Care Act compliant product that was deployed in several US states.
