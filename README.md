@@ -29,8 +29,7 @@ An iOS app that narrates your drives using on-device Vision AI and Gemini. Conti
 A charting tool for retail options traders — built at a public hackathon. Takes a CSV of option trades and renders charts and graphs for analysis. Static site, no backend, runs entirely in the browser.
 
 **[jcli](https://github.com/psumiya/jcli)**  
-A CLI tool that lets you invoke utility Java methods from your terminal without needing a JDK or JRE. Scratched my own itch — turns out others 
-had the same itch.
+A CLI tool that lets you invoke utility Java methods from your terminal without needing a JDK or JRE. 
 
 **[amazon-or-aws](https://amazonoraws.com)**  
 An AWS news aggregator and comprehensive product reference — so you can finally stop second-guessing whether it's "Amazon S3" or "AWS S3".
