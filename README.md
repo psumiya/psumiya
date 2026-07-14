@@ -1,8 +1,6 @@
 # Sumiya
 
-Engineering leader who builds. 18 years in enterprise software.
-
-Currently building with AI. Interested in how LLMs and agents can accelerate software delivery in enterprise environments. Ask me about it.
+Engineering leader who builds. 18 years in building and running software systems.
 
 ---
 
