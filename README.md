@@ -8,15 +8,15 @@ Engineering leader who builds. 18 years in building and running software systems
 
 **[Neo: An Experiment in Calibrating Agentic Trust](https://sumiya.page/2026/July/neo-an-experiment-in-calibrating-agentic-trust.html)**
 
-I built Neo, an issue-to-production pipeline that labels a GitHub issue, generates and tests a PR, classifies its risk as GREEN/YELLOW/RED, and auto-merges the safe ones while holding risky changes for review.
-
-**[AI Intelligence Brief](https://sumiya.page/brief/index.html)**
-
-Keeping up with AI research is a full-time job. Papers drop on arXiv every morning, YouTube channels post deep-dives, newsletters land in your inbox, and podcasts stretch to three hours. I am wroking on a single daily read that cuts across all of it, all automated. I have built a Python pipeline that pulls from RSS feeds, YouTube channels, and arXiv each day, runs everything through Gemini 2.5 Flash, and publishes a structured intelligence digest to a static site on S3 and CloudFront.
+I am working on Neo, an issue-to-production pipeline that labels a GitHub issue, generates and tests a PR, classifies its risk as GREEN/YELLOW/RED, and auto-merges the safe ones while holding risky changes for review.
 
 ---
 
 ## Things I've shipped
+
+**[AI Intelligence Brief](https://sumiya.page/brief/index.html)**
+
+Keeping up with AI research is a full-time job. Papers drop on arXiv every morning, YouTube channels post deep-dives, newsletters land in your inbox, and podcasts stretch to three hours. I built a newspaper-style single daily read that cuts across all of it, all automated. The news is built using a Python pipeline that pulls from RSS feeds, YouTube channels, and arXiv each day, runs everything through Gemini 2.5 Flash, and publishes a structured intelligence digest to a static site on S3 and CloudFront.
 
 **[CampaignLens](https://sumiya.page/campaign-lens.html)**
 
